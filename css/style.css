@@ -9,6 +9,7 @@ body {/* Typography Declarations */
     /*background-color: #F5F5F5;*/
     border: 14px #0075bf;
     margin: none;
+    background-color: #E6E6E6;
 }
 .masthead {
     background-image: url(../images/skphoto.jpg);
@@ -94,7 +95,7 @@ nav.navbar.navbar-default {
     text-align: right;
     color: #0075bf;
     height: 9em;
-    background-color:white;
+    background-color:#E6E6E6;
 }
 a {
     color: black;
@@ -113,7 +114,7 @@ a {
 }
 p {
     font-size: 12px;
-    margin-right: 57%;
+    margin-right: 56%;
     text-align: center;
 }
 .center-pills {
@@ -172,6 +173,7 @@ ul.social p {
     text-align: right;
     height: 2em;
     color: black;
+    background-color:    
 }
 .services li {
     margin: none;
@@ -313,13 +315,11 @@ html, body {
 .wrapper {
     background-color: #FBFBEF;
 }
-
-}
-hr {
-     border-top: 4px solid #8c8b8b;
-}
 /*#footer {
     background-color: black;
     position: fixed;
-    height:  25em;
+    height:  25em;*/
+}
+#container {
+       background-color: white;
 }
