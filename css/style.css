@@ -151,7 +151,7 @@ ul.social p {
     margin: 0 auto;
     padding: 0 0 0;
 }
-@media only screen and (max-width:  480px) {
+@media only screen and (max-width:  300px) {
   .services {
     padding: 3em 0
   }
