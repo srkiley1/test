@@ -53,7 +53,7 @@ ul.social {}
    .section > h1 {
     margin-top: 2em; 
 }
-@media only screen and (max-width:  480px) {
+@media only screen and (max-width:  400px) {
   .masthead {
     padding: 3em 0
   }
@@ -113,7 +113,7 @@ a {
 }
 p {
     font-size: 12px;
-    margin-right: 50%;
+    margin-right: 57%;
     text-align: center;
 }
 .center-pills {
@@ -189,8 +189,8 @@ a:hover {
     color: black;
 }
 .btn {
-    background-color: #352719;
-    color: white;
+    /*background-color: #352719;
+    color: white;*/
     text-decoration: none;
     text-align: right;
     border: none;
@@ -214,10 +214,10 @@ a:hover {
     font-weight: bold;
     text-align: center;
 }
-    .row {
+.row {
         margin-top: 25px;
 }
-    .blackspace {
+.blackspace {
         height: 200em;
 }
 
@@ -284,17 +284,17 @@ em {
 h4 {
     color: #0075bf;
 }
-#footer {
+/*#footer {
     border-top: 14px solid #0075bf;
     height: 12em;
-    background-color: red;
-}
+    background-color: red;*/
+/*}
 a.btn{
     color: black;
 }
 a.btn :hover {
     color: red;
-}
+}*/
 * {
     margin: 0;
 }
@@ -313,17 +313,13 @@ html, body {
 .wrapper {
     background-color: #FBFBEF;
 }
-#container {
-     border-top: 14px solid red;  
+
 }
 hr {
-     border-top: 1px solid #8c8b8b;
+     border-top: 4px solid #8c8b8b;
 }
-#footer {
+/*#footer {
     background-color: black;
     position: fixed;
     height:  25em;
-}
-.col-sm-8 {
-height:  400px;
 }
