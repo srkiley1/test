@@ -1,0 +1,334 @@
+body {
+  min-height: 400px;
+  padding-top: 70px;
+}
+body {/* Typography Declarations */
+    color: #0075bf;
+    font-size: 1em;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    /*background-color: #F5F5F5;*/
+    border: 14px #0075bf;
+    margin: none;
+  }
+.masthead {
+    background-image: url(../images/skphoto.jpg);
+    background-size: 20% 50%;
+    text-align: center;
+    padding: -10em;
+    height:  30.625em;
+    }
+.masthead p {
+    text-align: left;
+    margin-left: 110px;
+}
+.content-footer,
+.introduction-section
+ {
+    text-align: center;
+    background-color:	#fff;
+    padding: .1em;
+}
+ul.social {}
+.questions-section > h2 {
+    font-family: "Gentium Book Basic", Georgia, serif;
+    font-size: 1.2em;
+    font-weight: bold;    
+    margin: 1em 0 1em 0;
+}
+.content-footer > p {
+  color: black;
+}
+.introduction-section > p,
+.location-section > p,
+.content-footer > p {
+    font-weight: 200;
+    letter-spacing: 0.05em;
+}
+.questions-section > h2 {
+    font-family: "Gentium Book Basic", Georgia, serif;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 1em 0 1em 0;
+}
+   .section > h1 {
+    margin-top: 2em; 
+}
+@media only screen and (max-width:  480px) {
+  .masthead {
+    padding: 3em 0
+  }
+  .masthead-heading {
+    font-size: 3em;
+  
+  }
+ }
+/**Miscellaneous**/
+li {
+    height: 1em;
+    padding: 5px;
+    text-align: center;
+    color:#0075bf;
+}
+li {
+  list-style-type: none;
+  text-decoration: none;
+ }
+.container h2 {
+    text-align: center;
+}  
+h5 {
+    margin-left: 475px;
+    font-size: 20px;
+    margin-top: 200px;
+}
+nav.navbar.navbar-default {
+    background-color: white;
+}
+
+.introduction-section {
+    text-align:center;
+}
+
+.active {
+    color: black;
+}
+
+.container {
+    text-align: right;
+    color: #0075bf;
+    height: 9em;
+    background-color:white;
+}
+a {
+    color: black;
+    display: inline-block;
+    text-align: right;
+    font-size: 12px;
+    padding:  15px;
+}
+a.btn.btn-default {}
+ul.nav.nav-pills {
+    text-align: center;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    background-color: #352719;
+    text-align: center; 
+}
+p {
+    font-size: 12px;
+    margin-left: 10%;
+    text-align: center;
+}
+.center-pills {
+    display: flex;
+    justify-content: center;
+}
+.container.text-center h2 {
+    padding-bottom: 60px;
+    margin-top: 50px;
+    height: 500; 
+}
+.content-footer {
+     height:  400px;
+}
+
+ul.social {
+    height: 100px;
+    padding-left: 0px;
+}
+ul.social p {
+    margin-bottom: 9px;
+    margin-top: 19px;
+}
+.row {
+    text-align: center;
+    margin-right: -50px;
+    height: 200px;
+}
+#intro {
+    display: inline-block;
+}
+
+.container.text-center {
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 0 0;
+}
+@media only screen and (max-width:  480px) {
+  .services {
+    padding: 3em 0
+  }
+.services h1 {
+    text-align: center;
+ }
+.services ul{
+    list-style-type: none;
+}
+.services li {
+    height: 2em;
+}
+ .services h4 {
+    text-align: center;
+    margin-left: 1.5em;
+    border-top-color:  #0075bf;
+}
+.container {
+    text-align: right;
+    height: 2em;
+    color: black;
+}
+.services li {
+    margin: none;
+}
+a:hover {
+    color:#0075bf;
+}
+a {
+    color: black;
+}
+a:hover {
+   color: #0075bf;
+}
+.container a.btn.btn-default{
+    color: black;
+}
+.btn {
+    background-color: #352719;
+    color: white;
+    text-decoration: none;
+    text-align: right;
+    border: none;
+}
+.row3 {
+    height: 5em;
+    background-color:  red;
+}
+.row-footer {
+    height: 200px;
+    margin-top: 500px !important;
+    }
+.h6-footer {
+    margin-top: 500px;
+}
+ .introduction-section .list ul{
+    font-size: 50px;
+    }
+ h2 {
+    font-size: 10px;
+    font-weight: bold;
+    text-align: center;
+    }
+    .row {
+        margin-top: 25px;
+    }
+    .blackspace {
+        height: 200em;
+    }
+
+.services h4 {
+    font-size: 15px;
+}
+.container nav.navbar.navbar-default.navbar-fixed-top {
+    color: red;
+}
+.container nav.navbar.navbar-default.navbar-fixed-top a.btn.btdefault {
+    font-size: 50px;
+}
+ #navbar.navbar-collapse.collapse a {
+	color: red;
+}
+ ul.list {
+	color: red;
+}
+.services .sk {
+	font-weight: bold;
+}
+ .services h3 {
+	font-size: 50px;
+}
+ f.row-footer.row { 
+	color: red !important;
+    background-color: red;
+    height: 200px;
+    position:fixed;
+
+}
+.blackspace {
+	background-color: black;
+}
+.navbar-custom {
+	color: black;
+    font-size: 15px;
+}
+h1.sk {
+	font-size: 500px;
+	color: red;
+}
+.navbar-brand a{
+    text-align: center;
+    margin-left: 25px;
+}
+.img-responsive {
+    padding: 200px;
+}
+.navbar-custom a:hover{
+    color: blue;
+}
+.container {
+    height: 500em;
+}
+h2 {
+    text-align: center;
+}
+.wrapper {
+    color: black;
+}
+em {
+    color: black;
+}
+h4 {
+    color: #0075bf;
+}
+#footer {
+    border-top: 14px solid #0075bf;
+    height: 12em;
+    background-color: red;
+}
+a.btn{
+    color: black;
+}
+a.btn :hover {
+    color: red;
+}
+* {
+    margin: 0;
+}
+html, body {
+    height: 100%;
+}
+.wrapper {
+    min-height: 100%;
+    height: auto !important; /* This line and the next line are not necessary unless you need IE6 support */
+    height: 100%;
+    margin: 0 auto -155px; /* the bottom margin is the negative value of the footer's height */
+}
+.footer, .push {
+    height: 155px; /* .push must be the same height as .footer */
+}
+.wrapper {
+    background-color: #FBFBEF;
+}
+#container {
+     border-top: 14px solid red;  
+}
+hr {
+     border-top: 1px solid #8c8b8b;
+}
+#footer {
+    background-color: black;
+    position: fixed;
+    height:  25em;
+}
+.col-sm-8 {
+height:  400px;
+}
