@@ -9,7 +9,7 @@ body {/* Typography Declarations */
     /*background-color: #F5F5F5;*/
     border: 14px #0075bf;
     margin: none;
-  }
+}
 .masthead {
     background-image: url(../images/skphoto.jpg);
     background-size: 20% 50%;
@@ -59,8 +59,7 @@ ul.social {}
   }
   .masthead-heading {
     font-size: 3em;
-  
-  }
+    }
  }
 /**Miscellaneous**/
 li {
@@ -88,11 +87,9 @@ nav.navbar.navbar-default {
 .introduction-section {
     text-align:center;
 }
-
 .active {
     color: black;
 }
-
 .container {
     text-align: right;
     color: #0075bf;
@@ -106,8 +103,8 @@ a {
     font-size: 12px;
     padding:  15px;
 }
-a.btn.btn-default {}
-ul.nav.nav-pills {
+    a.btn.btn-default {}
+    ul.nav.nav-pills {
     text-align: center;
 }
 .nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
@@ -148,7 +145,6 @@ ul.social p {
 #intro {
     display: inline-block;
 }
-
 .container.text-center {
     text-align: center;
     margin: 0 auto;
@@ -206,7 +202,7 @@ a:hover {
 .row-footer {
     height: 200px;
     margin-top: 500px !important;
-    }
+}
 .h6-footer {
     margin-top: 500px;
 }
@@ -217,13 +213,13 @@ a:hover {
     font-size: 10px;
     font-weight: bold;
     text-align: center;
-    }
+}
     .row {
         margin-top: 25px;
-    }
+}
     .blackspace {
         height: 200em;
-    }
+}
 
 .services h4 {
     font-size: 15px;
@@ -251,7 +247,6 @@ a:hover {
     background-color: red;
     height: 200px;
     position:fixed;
-
 }
 .blackspace {
 	background-color: black;
